@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+secrets.js
+client/frontend/package-lock.json
+client/frontend/node_modules
