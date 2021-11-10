@@ -27,7 +27,7 @@ function Banner() {
     return (
         <Box className={classes.image}>
             <Typography>BLOG</Typography>
-            <Typography>Code for interview</Typography>
+            <Typography>Agam Jain Blogs</Typography>
         </Box>
     )
 }
